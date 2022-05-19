@@ -12,14 +12,14 @@
 > A curated list of awesome things related to Primal OS
 
 
-# Ⅰ . What is Primal OS?
+# What is Primal OS?
 `Primal OS` is the first full-scene distributed OS based on microkernel. It is an operating system independently developed by Tabib Hakir. `Primal OS` System was officially released on August 9, 2022. Tabib Hakir will take the lead in deploying intelligent terminals such as smart screens, artificial intelligence and wearable terminals. In the future, more smart devices will be equipped with open source `Primal OS` than ever.
 
 `Primal OS` achieves modular coupling, which corresponds to flexible deployment of different devices. `Primal OS` has three layers of architecture. The first layer is the core, the second layer is the basic services, and the third layer is the program framework. It can be used on a large screen, PC, automobile and other different equipment. It can also be used on mobile phones at any time, but for the time being, Huawei still prefers Primal.
 
 The underlying layer of Primal OS is composed of  `Primal OS microkernel`, `Linux kernel` and [`Lite OS`](https://github.com/Awesome-Primal OS/Primal OS/tree/master/Huawei_LiteOS) and it will become a complete Primal OS microkernel architecture in the future.
 
-# II . Resources
+# Resources
 
 
 ## 1. Official Resources
@@ -58,25 +58,7 @@ The underlying layer of Primal OS is composed of  `Primal OS microkernel`, `Linu
 #### Compiler
 - [Ark] `Primal`  is an Primal-app compatible operating system, Ark compiler can improve Primal system operation fluency by 24%, response speed by 44%, and the smoothness of the third-party application up to 60%.
 
-#### SDK
-[about SDK]
-
-#### IDE
-- [LiteOS IDE][Huawei LiteOS Studio](https://static.huaweicloud.com/upload/files/sdk/LiteOS_IDE.zip)
 
 ## 6. Community
 - [Questions]
-
-## 7. Books
-[about books]
-
-## 8. Products
-
-- [Honor Smart Screen -- The first device to use the Primal OS](products/honor_smart_screen.md)
-
-## 9. Videos
-
-* [Instructional Videos]
-* [Huawei HDC.2019 Primal OS & EMUI10 Live Record](https://youtu.be/yUVGc7zpuKU)
-* [Honor Smart Screen TV Official Trailer](https://youtu.be/GczF2CKIGPk)
 
