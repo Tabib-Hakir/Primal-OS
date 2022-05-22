@@ -2,7 +2,7 @@
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
 <p align="center">
-    <img src="https://media.discordapp.net/attachments/822842021861261352/977780150538219520/20220522_091823_0000.png" width="750px">
+    <img src="https://media.discordapp.net/attachments/822842021861261352/977792721571942410/20220522_100641_0000.png" width="750px">
 </p>
 
 
