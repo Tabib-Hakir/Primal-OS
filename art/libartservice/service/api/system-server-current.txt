@@ -1,0 +1,8 @@
+// Signature format: 2.0
+package com.android.server.art {
+
+  public final class ArtManagerLocal {
+    ctor public ArtManagerLocal();
+  }
+
+}
