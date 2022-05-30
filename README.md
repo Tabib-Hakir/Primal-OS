@@ -1,10 +1,11 @@
-# Primal
+# Primal OS
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
 <p align="center">
   <a href="https://github.com/Awesome-Primal-OS/OS">
     <img src="assets/img/hi.jpg" width="750px">
   </a>
+    <img src="https://media.discordapp.net/attachments/822842021861261352/980286380959760384/20220529_071744_0000.png" width="750px">
 </p>
 
 
@@ -13,11 +14,9 @@
 
 
 # What is Primal OS?
-`Primal OS` is the first full-scene distributed OS based on microkernel. It is an operating system independently developed by Tabib Hakir. `Primal OS` System was officially released on August 9, 2022. Tabib Hakir will take the lead in deploying intelligent terminals such as smart screens, artificial intelligence and wearable terminals. In the future, more smart devices will be equipped with open source `Primal OS` than ever.
+`Primal OS` is a multi-purpose cross-platform operating system developed by Tabib Hakir. It is the first full-scene distributed OS based on microkernel. It is an operating system independently developed by Tabib Hakir. `Primal OS` System will officially be released when the project is fully set. Tabib Hakir will take the lead in deploying intelligent terminals such as smart screens, artificial intelligence and wearable terminals. In the future, more smart devices will be equipped with open source `Primal OS` than ever.
 
-`Primal OS` achieves modular coupling, which corresponds to flexible deployment of different devices. `Primal OS` has three layers of architecture. The first layer is the core, the second layer is the basic services, and the third layer is the program framework. It can be used on a large screen, PC, automobile and other different equipment. It can also be used on mobile phones at any time, but for the time being, Huawei still prefers Primal.
-
-The underlying layer of Primal OS is composed of  `Primal OS microkernel`, `Linux kernel` and [`Lite OS`](https://github.com/Awesome-Primal OS/Primal OS/tree/master/Huawei_LiteOS) and it will become a complete Primal OS microkernel architecture in the future.
+`Primal OS` achieves modular coupling, which corresponds to flexible deployment of different devices. `Primal OS` has three layers of architecture. The first layer is the core, the second layer is the basic services, and the third layer is the program framework. It can be used on a large screen, PC, automobile and other different equipment.
 
 # Resources
 
@@ -34,7 +33,7 @@ The underlying layer of Primal OS is composed of  `Primal OS microkernel`, `Linu
 - [Mirrors]
 
 ## 3. Architecture References
-- [LiteOS](Huawei_LiteOS/README.md)
+- [LiteOS]
 - [ABI] Application Binary Interface
 - [EABI] Embedded Application Binary Interface
 
