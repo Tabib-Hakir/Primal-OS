@@ -5,7 +5,7 @@
   <a href="https://github.com/Awesome-Primal-OS/OS">
     <img src="assets/img/hi.jpg" width="750px">
   </a>
-    <img src="https://media.discordapp.net/attachments/822842021861261352/980286380959760384/20220529_071744_0000.png" width="750px">
+    <img src="https://media.discordapp.net/attachments/822842021861261352/982846959599624263/20220604_081902_0000.png" width="750px">
 </p>
 
 
